@@ -52,4 +52,4 @@ Calculates the average time delay between purchasing an iPhone and subsequently 
 
 1. Clone this repository:  
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/NikhilLIv/apple-data-analysis
