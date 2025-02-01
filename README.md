@@ -12,12 +12,10 @@ These files are uploaded to **Databricks DBFS** and processed using **PySpark** 
 
 ## Project Structure  
 
-- **data/**  
+- **source_files/**  
   - CSV files uploaded to Databricks DBFS.  
 - **notebooks/**  
-  - ETL Notebooks implementing each workflow in PySpark.  
-- **etl/**  
-  - Factory classes for extraction, transformation, and loading operations.  
+  - ETL Notebooks implementing each workflow in PySpark and factory classes for extraction and loading operations.  
 - **README.md**  
   - Project documentation.  
 
